@@ -21,4 +21,4 @@ console.log(User1.isAdmin()) // false
 console.log(Adm1.isAdmin()) // true
 
 
-//exercicio 02
+//exercicio 02 testegit
